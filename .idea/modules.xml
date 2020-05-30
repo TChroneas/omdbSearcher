@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/omdbSearcher.iml" filepath="$PROJECT_DIR$/omdbSearcher.iml" />
+      <module fileurl="file://$USER_HOME$/New folder (12)/springmvc-userlogin/springmvc-user-reg-login (1).iml" filepath="$USER_HOME$/New folder (12)/springmvc-userlogin/springmvc-user-reg-login (1).iml" />
+    </modules>
+  </component>
+</project>

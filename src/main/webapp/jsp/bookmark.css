@@ -1,0 +1,77 @@
+.intro{
+    text-align:center;
+    color:red;
+
+}
+.mid{
+    grid-area: mid;
+}
+
+.loginN{
+    grid-area: login;
+    padding-left: 100px;
+    padding-top: 100px;
+    color:red;
+}
+#bookmarks{
+    float:left;
+}
+
+.registerR{
+    grid-area: register;
+    padding-right: 100px;
+    padding-top: 100px;
+    color:red;
+}
+
+
+
+
+
+
+
+body{
+    background-color:white;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    grid-template-areas: 'login mid register';
+
+}
+
+.bar{
+    display:block;
+    text-align:center;
+
+}
+.button{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: red;
+    display:block;
+    text-align:center;
+
+
+
+}
+
+li{
+    margin:30px;}
+
+#btn{
+    opacity: 0;
+}
+
+.results{
+    margin-top:40px;
+    text-align:center;
+    color:red;
+    opacity:0;
+}
+.results2{
+    text-align:center;
+    color:red;
+    opacity:0;
+
+
+
+}
